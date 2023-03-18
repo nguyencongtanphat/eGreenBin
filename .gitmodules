@@ -1,0 +1,12 @@
+[submodule "eGreenBin-mobile-GDSC-Hackathon"]
+	path = eGreenBin-mobile-GDSC-Hackathon
+	url = https://github.com/GDSC-UIT/eGreenBin-mobile-GDSC-Hackathon.git
+[submodule "eGreenBin_GDSC_interact_hackathon"]
+	path = eGreenBin_GDSC_interact_hackathon
+	url = https://github.com/GDSC-UIT/eGreenBin_GDSC_interact_hackathon.git
+[submodule "eGreenBinTrash"]
+	path = eGreenBinTrash
+	url = https://github.com/GDSC-UIT/eGreenBinTrash.git
+[submodule "eGreenBin-backend-api"]
+	path = eGreenBin-backend-api
+	url = https://github.com/GDSC-UIT/eGreenBin-backend-api.git
