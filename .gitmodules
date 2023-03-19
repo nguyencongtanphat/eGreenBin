@@ -13,3 +13,7 @@
 [submodule "eGreenBinFace_Recognition_api"]
 	path = eGreenBinFace_Recognition_api
 	url = https://github.com/GDSC-UIT/eGreenBinFace_Recognition_api.git
+
+[submodule "slave_motor"]
+	path = slave_motor
+	url = https://github.com/cmwuaan/slave_motor.git
