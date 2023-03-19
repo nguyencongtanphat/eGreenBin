@@ -10,3 +10,6 @@
 [submodule "eGreenBin-backend-api"]
 	path = eGreenBin-backend-api
 	url = https://github.com/GDSC-UIT/eGreenBin-backend-api.git
+[submodule "eGreenBinFace_Recognition_api"]
+	path = eGreenBinFace_Recognition_api
+	url = https://github.com/GDSC-UIT/eGreenBinFace_Recognition_api.git
